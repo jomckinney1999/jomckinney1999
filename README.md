@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Completing my **Master's in Business Analytics**
+- 🎓 Completed my **Master's in Business Analytics**
 - 🖥️ Focused on mastering **Python**, **SQL**, and **Cloud Technologies**
 - 📈 Passionate about **Data Analysis**, **Project Management**, and **Business Optimization**
 - 🤝 Open to collaboration, internships, and full-time opportunities!
