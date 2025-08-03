@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jojo Mckinney 👋</h1>
 
 <p align="center">
-  🌟 Future Data Analyst & Project Manager | 📊 Passionate about Data-Driven Solutions
+  🌟 Data Analyst & Project Manager | 📊 Passionate about Data-Driven Solutions
 </p>
 
 <p align="center">
