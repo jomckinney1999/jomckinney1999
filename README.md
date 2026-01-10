@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PMP%20Candidate-006400?style=for-the-badge&logo=projectmanagement&logoColor=white" />
 </p>
 
 ---
@@ -25,7 +24,7 @@
 
 - **Languages:** Python, SQL
 - **Tools & Technologies:** Pandas, NumPy, Tableau, Power BI, AWS Basics
-- **Other:** Data Visualization, Business Analytics, Project Management (PMP Certification in progress)
+- **Other:** Data Visualization, Business Analytics, Project Management 
 
 ---
 
