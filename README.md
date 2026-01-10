@@ -31,7 +31,7 @@
 
 ### 📫 Connect with Me
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/jojo-mckinney-37b53417b/)
+- [🔗 LinkedIn](https://www.linkedin.com/in/jojo-mckinney-msba-37b53417b/)
 - [🌐 Portfolio Website](https://jojodoesdata.com)
 
 ---
